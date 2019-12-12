@@ -1,0 +1,8 @@
+/home/jimtang/NetCoreApp/EntityServices/bin/Debug/netstandard2.0/EntityServices.deps.json
+/home/jimtang/NetCoreApp/EntityServices/bin/Debug/netstandard2.0/EntityServices.dll
+/home/jimtang/NetCoreApp/EntityServices/bin/Debug/netstandard2.0/EntityServices.pdb
+/home/jimtang/NetCoreApp/EntityServices/obj/Debug/netstandard2.0/EntityServices.csprojAssemblyReference.cache
+/home/jimtang/NetCoreApp/EntityServices/obj/Debug/netstandard2.0/EntityServices.AssemblyInfoInputs.cache
+/home/jimtang/NetCoreApp/EntityServices/obj/Debug/netstandard2.0/EntityServices.AssemblyInfo.cs
+/home/jimtang/NetCoreApp/EntityServices/obj/Debug/netstandard2.0/EntityServices.dll
+/home/jimtang/NetCoreApp/EntityServices/obj/Debug/netstandard2.0/EntityServices.pdb

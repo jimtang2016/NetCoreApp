@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/jimtang/NetCoreApp/EntityServices/EntityServices.csproj": {}
+  },
+  "projects": {
+    "/home/jimtang/NetCoreApp/EntityServices/EntityServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jimtang/NetCoreApp/EntityServices/EntityServices.csproj",
+        "projectName": "EntityServices",
+        "projectPath": "/home/jimtang/NetCoreApp/EntityServices/EntityServices.csproj",
+        "packagesPath": "/home/jimtang/.nuget/packages/",
+        "outputPath": "/home/jimtang/NetCoreApp/EntityServices/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/jimtang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

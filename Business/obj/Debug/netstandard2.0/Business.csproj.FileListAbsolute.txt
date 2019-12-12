@@ -1,0 +1,3 @@
+/home/jimtang/NetCoreApp/Business/obj/Debug/netstandard2.0/Business.csprojAssemblyReference.cache
+/home/jimtang/NetCoreApp/Business/obj/Debug/netstandard2.0/Business.AssemblyInfoInputs.cache
+/home/jimtang/NetCoreApp/Business/obj/Debug/netstandard2.0/Business.AssemblyInfo.cs
